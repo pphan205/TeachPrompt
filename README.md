@@ -24,6 +24,10 @@ This repository showcases the implementation of a **Role Prompt Pattern** for te
 - **YouTube Demo:** [Watch the Chatbot Demo](https://youtube.com/shorts/gx6IGiwcM9k?feature=share)  
 - **Description:** This format demonstrates the Role Prompt Pattern in action through an interactive chatbot that handles customer service inquiries. Users can try the chatbot live or watch a demo video showcasing its capabilities.
 
+
+#### **Format 3: Silde Presentation**
+- **Website:** [Silde](https://prezi.com/view/hnt060yi0cSLPdLz5HMA/)
+- 
 ---
 
 ## **Project Highlights**
